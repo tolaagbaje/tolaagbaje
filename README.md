@@ -203,7 +203,6 @@ As an **AI Operations Assistant**, I specialise in integrating AI tools and auto
 |:---:|:---:|
 | 📧 **Email** | omotolaagbaje30@gmail.com |
 | 💼 **LinkedIn** | [linkedin.com/in/abdulmujeeb-agbaje](https://linkedin.com/in/abdulmujeeb-agbaje) |
-| 🌐 **Portfolio** | [gamma.app/docs/vy1a8b4e17x9a9b](https://gamma.app/docs/vy1a8b4e17x9a9b) |
 | 📞 **Phone** | +2347017356792 |
 
 </div>
