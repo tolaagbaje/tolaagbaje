@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulmujeeb--agbaje-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmujeeb-agbaje)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-FF6B6B?style=for-the-badge&logo=gamma&logoColor=white)](https://gamma.app/docs/vy1a8b4e17x9a9b)
 [![Email](https://img.shields.io/badge/Email-omotolaagbaje30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omotolaagbaje30@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-00B388?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lagos,Nigeria)
 
