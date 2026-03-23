@@ -14,7 +14,7 @@
 
 ## 👨🏾‍💼 About Me
 
-I'm a **Project Manager and AI Operations Specialist** with **4+ years** of experience delivering complex digital and mobile solutions across **Fintech, SaaS, Healthcare, and Consulting** environments.
+I'm a **Project Manager and AI Operations Specialist** with **4+ years** of experience delivering complex digital and mobile solutions across **Fintech, SaaS, Healthcare, *Marketing* and Consulting** environments.
 
 I sit at the intersection of **project delivery and AI-powered operations** — leveraging automation tools, AI workflows, and structured project management frameworks to help teams move faster, smarter, and with less friction.
 
